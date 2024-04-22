@@ -1,16 +1,18 @@
-### Hi there 👋
+# About me
 
-<!--
-**n0rahh/n0rahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Technologies: 
 
-Here are some ideas to get you started:
+> 🔧 Back-end: Node.js, Express, Nest, Knex, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 🎨 Front-end: Vue, React, Next
+
+> 🤖 Programming: JavaScript/TypeScript
+
+🔭 I’m currently working as a full-stack developer at Tutore Poland, contributing to the development of an innovative educational platform. I am also volunteering on a new project for 'What's the deal?' using Next.js.
+
+🌱 I’m learning React, Next.js, and React Native to enhance my skills in front-end development and expand into mobile development.
+
+👯 I’m looking to collaborate on exciting projects in my field, particularly those that offer new challenges and opportunities for growth.
+
+📫 How to reach me? Hit me up at https://vladeq.me
+
