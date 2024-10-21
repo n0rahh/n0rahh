@@ -2,7 +2,7 @@
 
 💻 Technologies: 
 
-> 🔧 Back-end: Node.js, Express, Nest, Knex, SQL
+> 🔧 Back-end: Node.js, Express, Nest, Knex, SQL, MongoDB, GraphQL, JEST
 
 > 🎨 Front-end: Vue, React, Next
 
